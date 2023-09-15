@@ -1,0 +1,10 @@
+attrs==22.2.0
+colorama==0.4.6
+exceptiongroup==1.1.0; python_version < '3.11'
+iniconfig==2.0.0
+mosek==10.0.34
+numpy==1.24.1
+packaging==22.0
+pluggy==1.0.0
+pytest==7.2.0
+tomli==2.0.1; python_version < '3.11'

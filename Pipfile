@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+mosek = "==10.0.34"
+pytest = "*"
+colorama = "*"
+numpy = "*"
+
+[dev-packages]
+yapf = "*"
+
+[requires]
+python_version = "3.9"
